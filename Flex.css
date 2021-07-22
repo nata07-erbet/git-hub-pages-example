@@ -1,0 +1,32 @@
+body {
+  font-size: 12px;
+  margin: 0;
+}
+
+.wrapper{
+
+}
+
+.header{}
+
+.header .layout-column {
+}
+
+.header.layout-column-1{
+  width: 280px;
+  float: left;
+  background-color: darkcyan;
+}
+
+.header.layout-column-2{
+  width: 130px;
+  float: right;
+  background-color: darkred;
+}
+
+
+.features{}
+
+.features .layout-column{}
+
+.footer{}
